@@ -1,0 +1,23 @@
+.Main{
+    min-height: 700px;
+    width: 500px;
+    border: 1px solid red;
+    border-radius:5px ;
+    margin-left: 450px;
+    display: flex;
+    align-items:first baseline;
+    justify-content:center;
+}
+.text{
+    min-height:50px;
+    min-width:300px;
+}
+/* .right-btn{
+    height: 20px;
+    border: 2px solid black;
+    width:100px;
+    margin-left:450px;
+    display: flex;
+    justify-content: space-between;
+    
+} */
