@@ -4,9 +4,9 @@
     border: 1px solid red;
     border-radius:5px ;
     margin-left: 450px;
-    display: flex;
+    /* display: flex;
     align-items:first baseline;
-    justify-content:center;
+    justify-content:center; */
 }
 .text{
     min-height:50px;
